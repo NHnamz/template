@@ -65,6 +65,12 @@
     height: 100%;
     width: 100%;
 }
+.body_background-4{
+    background-image: url("/img/bg.png");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
 .body_background-top-right{
     background-image: url("/img/bg_16.png");
     background-repeat: no-repeat;
@@ -116,6 +122,10 @@
 }
 .body_3{
     height: 750px;  
+    width: 100%;
+}
+.body_1{
+    height: 900px;  
     width: 100%;
 }
 .body_box{
@@ -276,10 +286,102 @@
     border-style: dashed ;
 }
 .box_right{
+margin-top: 50px;
 }
 .box_left{
-width: 35%;
+width: 30%;
 height: 40%;
 background-image: url("/img/bg_11.png");
 background-size: 100% 100%;
+margin-top: 50px;
 }
+.box_bottom-left{
+width: 40%;
+height: 62%;
+background-image: url("/img/Vektor-Smartobjekt\ windmill.png");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+margin-top: 50px;
+}
+.box_bottom-center{
+width: 20% !important;
+height: 50%;
+background-image: url("/img/Vektor-Smartobjekt\ windmill.png");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+.text-style-4{
+    color: #dfc691;
+    font-size: 3.75rem; 
+    text-transform: uppercase;  
+}
+.footer{
+    background-image: url("/img/bg.png");
+}
+.footer_text{
+    color: #a47d5e;
+    font-size: 1.875rem;    
+    margin-bottom: 5%;
+}
+.footer_menu{
+    color: #a47d5e;
+}
+.footer_box{
+    color: #a47d5e;
+    margin-bottom: 15%;
+}
+.footer_img{
+        display: block;
+        margin: 0 auto;
+        width: 100px;
+        border-radius: 50%;
+}
+.img_bg{
+    background-image: url("/img/img_bg-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img_placeholder{
+    background-image: url("/img/placeholder.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.box_bottom-left{
+    width: 30% !important;
+    height: 40%;
+    background-image: url("/img/bg_11.png");
+    background-size: 100% 100%;
+    margin-top: 50px;
+}
+.box_bottom-1{
+    height: 110%;
+    width: 27% !important;
+    margin-right: 1px !important;    
+}
+.body_card-2{
+    height: 105%;
+    width: 100%;
+}
+.bg_2{
+    background-image: url("/img/bg_2.png");
+    background-size: 100% 100%;
+}
+.bg_11{
+    background-image: url("/img/bg_11.png");
+    background-size: 100% 100%;
+}
+.btn-4 {
+    position: absolute;
+    margin-left: 60px;
+    top: 537px;
+    width: 171px;
+    border: 1px solid #dfc691; /*stroke*/
+    background: #ffffff;
+    color: #dfc691;
+    font-size: 1.125rem; /* 18px / 16px = 1.125rem */
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    line-height: 60px;
+    text-align: center;
+    border-style: dashed;
+  }
