@@ -5,7 +5,7 @@
 } */
 
 .header_background{
-    background-image: url("/img/bg_17.jpg");
+    background-image: url("./img/bg_17.jpg");
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
@@ -48,59 +48,59 @@
     text-transform: uppercase;
   }
 .body_background-1{
-    background-image: url("/img/bg_12.jpg");
+    background-image: url("./img/bg_12.jpg");
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
 }
 .body_background-2{ 
-    background-image: url("/img/bg_10.jpg");
+    background-image: url("./img/bg_10.jpg");
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
 }
 .body_background-3{
-    background-image: url("/img/bg_6.jpg");
+    background-image: url("./img/bg_6.jpg");
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
 }
 .body_background-4{
-    background-image: url("/img/bg.png");
+    background-image: url("./img/bg.png");
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
 }
 .body_background-top-right{
-    background-image: url("/img/bg_16.png");
+    background-image: url("./img/bg_16.png");
     background-repeat: no-repeat;
     height: 49%;
     margin-bottom: 1%;
 }
 .body_background-top-left{
-    background-image: url("/img/bg_15.png");
+    background-image: url("./img/bg_15.png");
     background-repeat: no-repeat;
     height: 49%;
     margin-bottom: 1%;
 }
 .body_background-bottom-right{
-    background-image: url("/img/bg_14.png");
+    background-image: url("./img/bg_14.png");
     background-repeat: no-repeat;
     height: 49%;
     margin-bottom: 1%;
 }
 .body_background-bottom-left{
-    background-image: url("/img/bg_13.png");
+    background-image: url("./img/bg_13.png");
     background-repeat: no-repeat;
     height: 49%;
     margin-bottom: 1%;
 }
   .body_background-center{
-    background-image: url("/img/vektor-smartobjekt_8.png");
+    background-image: url("./img/vektor-smartobjekt_8.png");
     background-repeat: no-repeat;
 }
   .body_background-box{
-    background-image: url("/img/widget_bg.png");
+    background-image: url("./img/widget_bg.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 60%;
@@ -108,7 +108,7 @@
 
 }
   .body_background-chat{
-    background-image: url("/img/text_bg.png");
+    background-image: url("./img/text_bg.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -216,13 +216,13 @@
     letter-spacing: 0.05em;  
 }
 .body_background3-right{
-    background-image: url("/img/bg_1.png");
+    background-image: url("./img/bg_1.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     box-shadow: 5px 2px 5px grey;
 }
 .body_background-fold{
-    background-image: url("/img/fold.png");
+    background-image: url("./img/fold.png");
     background-repeat: no-repeat;
 }
 .body_card-1{
@@ -259,7 +259,7 @@
     margin-bottom: 50%;
     padding: 0 68px;
     border: 1px solid #9e9c93; 
-    background-image: url("/img/bg_1.png");
+    background-image: url("./img/bg_1.png");
     color: #a47d5e;
     font-size: 1.125rem; 
     font-weight: bold;
@@ -291,14 +291,14 @@ margin-top: 50px;
 .box_left{
 width: 30%;
 height: 40%;
-background-image: url("/img/bg_11.png");
+background-image: url("./img/bg_11.png");
 background-size: 100% 100%;
 margin-top: 50px;
 }
 .box_bottom-left{
 width: 40%;
 height: 62%;
-background-image: url("/img/Vektor-Smartobjekt\ windmill.png");
+background-image: url("./img/Vektor-Smartobjekt\ windmill.png");
 background-repeat: no-repeat;
 background-size: 100% 100%;
 margin-top: 50px;
@@ -306,7 +306,7 @@ margin-top: 50px;
 .box_bottom-center{
 width: 20% !important;
 height: 50%;
-background-image: url("/img/Vektor-Smartobjekt\ windmill.png");
+background-image: url("./img/Vektor-Smartobjekt\ windmill.png");
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
@@ -316,7 +316,8 @@ background-size: 100% 100%;
     text-transform: uppercase;  
 }
 .footer{
-    background-image: url("/img/bg.png");
+    background-image: url("./img/bg.png");
+    height: 80px;
 }
 .footer_text{
     color: #a47d5e;
@@ -337,19 +338,19 @@ background-size: 100% 100%;
         border-radius: 50%;
 }
 .img_bg{
-    background-image: url("/img/img_bg-1.png");
+    background-image: url("./img/img_bg-1.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .img_placeholder{
-    background-image: url("/img/placeholder.png");
+    background-image: url("./img/placeholder.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .box_bottom-left{
     width: 30% !important;
     height: 40%;
-    background-image: url("/img/bg_11.png");
+    background-image: url("./img/bg_11.png");
     background-size: 100% 100%;
     margin-top: 50px;
 }
@@ -363,11 +364,11 @@ background-size: 100% 100%;
     width: 100%;
 }
 .bg_2{
-    background-image: url("/img/bg_2.png");
+    background-image: url("./img/bg_2.png");
     background-size: 100% 100%;
 }
 .bg_11{
-    background-image: url("/img/bg_11.png");
+    background-image: url("./img/bg_11.png");
     background-size: 100% 100%;
 }
 .btn-4 {
@@ -384,4 +385,8 @@ background-size: 100% 100%;
     line-height: 60px;
     text-align: center;
     border-style: dashed;
+  }
+  .border-text{
+border-bottom: 1px solid #d7d5ca;
+border-top: 1px solid #d7d5ca;
   }
