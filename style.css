@@ -124,7 +124,7 @@
     height: 750px;  
     width: 100%;
 }
-.body_1{
+.body_4{
     height: 900px;  
     width: 100%;
 }
@@ -190,7 +190,6 @@
     position: absolute;
     top: 134px;
     width: 282px;
-    background: url(images/vektor-smartobjekt_6.jpg) no-repeat;
     color: #c9b176;
     font-size: 1.875rem; /* 30px / 16px = 1.875rem */
     letter-spacing: 0.05em;
@@ -386,7 +385,7 @@ background-size: 100% 100%;
     text-align: center;
     border-style: dashed;
   }
-  .border-text{
-border-bottom: 1px solid #d7d5ca;
-border-top: 1px solid #d7d5ca;
-  }
+.border_text{
+border-top: 1px solid #c2beba;
+border-bottom: 1px solid #c2beba;
+}
