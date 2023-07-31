@@ -2,6 +2,7 @@
     background-image: url("./img/bg_17.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    width: 100% !important;
 }
 .header_text{
     height: 750px;  
@@ -510,7 +511,125 @@ height: 65%;
 .menu_size{
     width: 100% !important;
 }
-
+.position{
+    position: absolute !important;
+    top: 15% !important;
+    left: 10%;
+}
+@media only screen and (max-width: 768px) {
+    .wight{
+        width: 100% !important;
+    }
+    .text_phone{
+        font-size: 1.75rem;
+    }
+    .text_phone-1{
+        font-size: 0.75rem;
+    }
+    .text_phone-2{
+        font-size: 0.25rem;
+    }
+    .header_background-1{
+        background-image: url("./img/bg_17.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    .logo{
+        width: 80%;
+    }
+    .nav_text{
+        font-size: 0.75rem;
+    }
+    .body_1{
+        height: 1000px;  
+        width: 100%;
+    }
+    .body_content-top{
+        display: flex;
+        width: 85% !important;
+        height: 50% !important;
+        margin-top: 3rem !important;
+    }    
+    .body_phone-box{
+        width: 100%;
+        height: 50% !important;
+    }
+    .body_box{
+        width: 100%;
+        height: 80% !important;
+    }
+    .img-box{
+        width: 100%;
+        height: 40%;
+    }
+    .body_background-box{
+        background-image: url("./img/pan.png");
+        background-repeat: no-repeat;
+    }
+    .body_mediom-box{
+        width: 100%;
+    }
+    .slick-next {
+        background-image: url("./img/interface - arrow right.png") !important;
+        background-size: 100% 100% !important;
+        background-repeat: no-repeat !important;
+        width: 20px !important;
+        height: 20px !important;
+        }
+    .slick-prev{
+        background-image: url("./img/interface - arrow left.png") !important;
+        background-size: 100% 100% !important;
+        background-repeat: no-repeat !important;
+        width: 20px !important;
+        height: 20px !important;
+    }
+    .body_2{
+        height: 1000px;  
+        width: 100%;
+    }
+    .body_3{
+        height: 1200px;  
+        width: 100%;
+    }
+    .body_4{
+        height: 1000px;  
+        width: 100%;
+    }
+    .box{
+        width: 80%;
+        height: 30%;
+        margin-left: 5px !important;
+    }
+    .time_box{
+    margin-left: 30%;
+    }
+    .body_box-text{
+        width: 60% !important; 
+        height: 20% !important;
+    }    
+    .img_wight{
+        width: 100%;
+    }
+    .menu_size{
+        width: 33% !important;
+    }
+    .body_4-1{
+        height: 40%;
+    }
+    .body_4-2{
+        height: 60%;
+    }
+    .body_box-text-1{
+        width: 95% !important; 
+        height: 70% !important;
+    }
+    .position{
+        position: absolute !important;
+        top: 10% !important;
+        right: 15%;
+        height: 40%;
+    }
+    }    
 @media only screen and (max-width: 600px) {
     .text_phone{
         font-size: 1.75rem;
@@ -576,7 +695,7 @@ height: 65%;
         height: 20px !important;
     }
     .body_2{
-        height: 1200px;  
+        height: 1000px;  
         width: 100%;
     }
     .body_3{
@@ -593,12 +712,15 @@ height: 65%;
         margin-left: 5px !important;
     }
     .time_box{
-    margin-left: 25%;
+    margin-left: 30%;
     }
     .body_box-text{
         width: 60% !important; 
         height: 20% !important;
     }    
+    .img_wight{
+        width: 100%;
+    }
     .menu_size{
         width: 33% !important;
     }
@@ -612,4 +734,10 @@ height: 65%;
         width: 95% !important; 
         height: 70% !important;
     }
-    }   
+    .position{
+        position: absolute !important;
+        top: 10% !important;
+        right: 15%;
+        height: 40%;
+    }
+    }    
